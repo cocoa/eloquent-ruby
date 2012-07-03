@@ -52,7 +52,4 @@ class Document
     total = words.inject(0.0) { |result, word| word.size + result }
     total / word_count
   end
-
-
-
 end

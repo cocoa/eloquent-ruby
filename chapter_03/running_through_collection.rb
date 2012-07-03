@@ -1,8 +1,6 @@
 require File.dirname(__FILE__) + '/document.rb'
 require 'pp'
 
-
-
 words = %w{ Mary had a little lamb }
 
 # don't do these...
@@ -39,3 +37,4 @@ pp my_doc.words.map { |word| word.size }
 lower_case_words = my_doc.words.map { |word| word.downcase }
 
 pp lower_case_words
+
