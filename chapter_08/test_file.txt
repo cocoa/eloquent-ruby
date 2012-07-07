@@ -1,0 +1,3 @@
+Russ Olsen
+Eloquent Ruby
+This is a great Ruby resource...
