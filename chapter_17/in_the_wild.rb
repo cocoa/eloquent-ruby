@@ -4,7 +4,7 @@ etc_dir.each {|name| puts name}
 
 
 require 'resolv'
-Resolv.each_address("www.lavoz.es") { |ip| puts ip }
+Resolv.each_address("www.google.com") { |ip| puts ip }
 
 
 # ObjectSpace.each_object(String) { |the_string| puts the_string }
