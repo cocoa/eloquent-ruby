@@ -1,0 +1,4 @@
+Bad method called: text
+with 0 arguments
+Bad method called: sail
+with 2 arguments
