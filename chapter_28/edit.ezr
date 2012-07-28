@@ -1,0 +1,5 @@
+# this is a comment line...
+delete /document/published
+replace /document/author Tolkien
+uppercase /document/title
+print_document
