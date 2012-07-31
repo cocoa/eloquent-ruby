@@ -1,5 +1,5 @@
-eloquent-ruby
-=============
+eloquent-ruby source code
+=========================
 
 Examples from the book Eloquent Ruby, by Russ Olsen
 
