@@ -7,7 +7,8 @@ Examples from the book Eloquent Ruby, by Russ Olsen
 chapter list
 ------------
 
-16\. Use Modules as Mixins.
+16\. Use modules as mixins
+20\. Use hooks to keep your program informed
 
 
 tree hierarchy
@@ -112,6 +113,11 @@ tree hierarchy
 │   ├── instant_block_objetcs.rb
 │   ├── lazy_initialization.rb
 │   └── the_callback_problem.rb
+├── chapter_20
+│   ├── class_inclusion_hook.rb
+│   ├── document.rb
+│   ├── module_inclusion_hook.rb
+│   └── set_trace_func.rb
 ├── chapter_21
 │   ├── coping_with_constants.rb
 │   ├── document.error.txt
@@ -171,6 +177,6 @@ tree hierarchy
     │       └── document_spec.rb
     └── document-1.0.1.gem
 
-33 directories, 122 files
+34 directories, 126 files
 
 ```
