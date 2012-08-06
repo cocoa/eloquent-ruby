@@ -4,13 +4,6 @@ eloquent ruby source code
 Examples from the book Eloquent Ruby, by Russ Olsen
 
 
-chapter list
-------------
-
-16\. Use modules as mixins
-20\. Use hooks to keep your program informed
-
-
 tree hierarchy
 --------------
 
@@ -34,6 +27,9 @@ tree hierarchy
 │   ├── coming_up.rb
 │   ├── staying_out_of_trouble.rb
 │   └── the_string_place.rb
+├── chapter_05
+│   ├── beginnings_and_endings.rb
+│   └── regular_expresions_in_ruby.rb
 ├── chapter_06
 │   ├── in_the_wild.rb
 │   ├── optimized_to_stand_for_something.rb
@@ -177,6 +173,6 @@ tree hierarchy
     │       └── document_spec.rb
     └── document-1.0.1.gem
 
-34 directories, 126 files
+35 directories, 128 files
 
 ```
