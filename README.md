@@ -130,6 +130,11 @@ tree hierarchy
 │   ├── in_the_wild.rb
 │   └── magic_methods.rb
 ├── chapter_24
+│   ├── alias_method.rb
+│   ├── document.rb
+│   ├── fixing_a_broken_class.rb
+│   ├── improving_existing_classes.rb
+│   └── wide_open_classes.rb
 ├── chapter_25
 │   ├── class_methods_that_change_their_class.rb
 │   ├── document.rb
@@ -173,6 +178,6 @@ tree hierarchy
     │       └── document_spec.rb
     └── document-1.0.1.gem
 
-35 directories, 128 files
+35 directories, 133 files
 
 ```
